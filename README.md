@@ -1,2 +1,2 @@
 # rox_of_bock
-Guitar Overdrive Pedal 
+Kicad, LT-Spice and BOM files for a Guitar Overdrive Pedal 
